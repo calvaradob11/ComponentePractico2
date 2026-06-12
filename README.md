@@ -1,2 +1,2 @@
-# ComponentePr-ctico2
+# ComponentePractico2
 Repositorio de segundo parcial
